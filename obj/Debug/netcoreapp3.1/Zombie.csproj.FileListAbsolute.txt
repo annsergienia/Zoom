@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Zoom\obj\Debug\netcoreapp3.1\Zombie.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Zoom\obj\Debug\netcoreapp3.1\Zoom.Form1.resources
+C:\Users\HP\source\repos\Zoom\obj\Debug\netcoreapp3.1\Zombie.Properties.Resources.resources
+C:\Users\HP\source\repos\Zoom\obj\Debug\netcoreapp3.1\Zombie.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Zoom\obj\Debug\netcoreapp3.1\Zombie.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Zoom\obj\Debug\netcoreapp3.1\Zombie.AssemblyInfo.cs
+C:\Users\HP\source\repos\Zoom\obj\Debug\netcoreapp3.1\Zombie.csproj.CoreCompileInputs.cache

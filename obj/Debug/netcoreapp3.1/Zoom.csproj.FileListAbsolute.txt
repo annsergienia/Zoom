@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\Zoom\bin\Debug\netcoreapp3.1\Zoom.exe
+C:\Users\HP\source\repos\Zoom\bin\Debug\netcoreapp3.1\Zoom.deps.json
+C:\Users\HP\source\repos\Zoom\bin\Debug\netcoreapp3.1\Zoom.runtimeconfig.json
+C:\Users\HP\source\repos\Zoom\bin\Debug\netcoreapp3.1\Zoom.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Zoom\bin\Debug\netcoreapp3.1\Zoom.dll
+C:\Users\HP\source\repos\Zoom\bin\Debug\netcoreapp3.1\Zoom.pdb
+C:\Users\HP\source\repos\Zoom\obj\Debug\netcoreapp3.1\Zoom.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Zoom\obj\Debug\netcoreapp3.1\Zoom.Form1.resources
+C:\Users\HP\source\repos\Zoom\obj\Debug\netcoreapp3.1\Zoom.Properties.Resources.resources
+C:\Users\HP\source\repos\Zoom\obj\Debug\netcoreapp3.1\Zoom.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Zoom\obj\Debug\netcoreapp3.1\Zoom.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Zoom\obj\Debug\netcoreapp3.1\Zoom.AssemblyInfo.cs
+C:\Users\HP\source\repos\Zoom\obj\Debug\netcoreapp3.1\Zoom.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Zoom\obj\Debug\netcoreapp3.1\Zoom.dll
+C:\Users\HP\source\repos\Zoom\obj\Debug\netcoreapp3.1\Zoom.pdb
+C:\Users\HP\source\repos\Zoom\obj\Debug\netcoreapp3.1\Zoom.genruntimeconfig.cache

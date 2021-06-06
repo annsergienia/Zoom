@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7d9GCsFST6vXDlKkjajpiIjn+Xi5GMM2Zr9HOSW2vRTytvSzXq7t1Hy1WV/hpyDxtvqcnLjE1ewA1cW129yC5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Zoom\\Zoom.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
